@@ -3,8 +3,8 @@
 Hola! soy Andrés Rendón, estudio ingeniería en informatica y sistemas en la Universidad Rafael Landívar.
 
 ## Mis hobbies
-* me gusta jugar videojuegos con mis amigos
-* me gusta mucho la fórmula 1
-* me gusta escuchar música
-* me gusta hacer ejercicio
-* me gusta tocar la guitarra
+* Me gusta jugar videojuegos con mis amigos
+* Me gusta mucho la fórmula 1
+* Me gusta escuchar música
+* Me gusta hacer ejercicio
+* Me gusta tocar la guitarra
